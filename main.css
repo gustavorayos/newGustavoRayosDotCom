@@ -1,0 +1,206 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body,
+html,
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+/******************************************/
+/*********** Theme Color Begin ************/
+/******************************************/
+
+/* gr-main-color css */
+.gr-main-color,
+.gr-hover-main-color:hover {
+    color: #fff!important;
+    background-color: #1f2605!important;
+}
+.gr-text-main-color,
+.gr-hover-text-main-color:hover {
+    color: #1f2605!important;
+}
+
+/* gr-accent-color-button css */
+.gr-accent-color-button {
+    color: #d6ce15!important;
+    border-color: #d6ce15!important;
+}
+.gr-hover-accent-color-button:hover {
+    color: #000!important;
+    background-color: #d6ce15!important;
+}
+
+/* gr-accent-color-button-project css */
+.gr-accent-color-button-project {
+    color: #1f2605!important;
+    border-color: #1f2605!important;
+}
+.gr-hover-accent-color-button-project:hover {
+    color: #fff!important;
+    background-color: #1f2605!important;
+}
+
+/* gr-accent-color css */
+.gr-accent-color,
+.gr-hover-accent-color:hover {
+    color: #000!important;
+    background-color: #d6ce15!important;
+}
+.gr-text-accent-color,
+.gr-hover-text-accent-color:hover {
+    color: #d6ce15!important;
+}
+
+/* gr-accent-color-shade css */
+.gr-accent-color-shade,
+.gr-hover-accent-color-shade:hover {
+    color: #fff!important;
+    background-color: rgba(251, 232, 166, 0.7)!important;
+}
+.gr-text-accent-color-shade,
+.gr-hover-text-accent-color-shade:hover {
+    color: #d6ce15!important;
+}
+
+/* gr-accent-color2 css (text) */
+.gr-accent-color2,
+.gr-hover-accent-color2:hover {
+    color: #000!important;
+    background-color: #fbe8a6!important;
+}
+.gr-text-accent-color2,
+.gr-hover-text-accent-color2:hover {
+    color: #fbe8a6!important;
+}
+
+/* gr-section-divider */
+.gr-section-divider {
+    border-bottom: 1px solid #fff;
+}
+
+/****************************************/
+/*********** Theme Color End ************/
+/****************************************/
+
+.w3-padding-column {
+    padding: 8px 8px;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 500px;
+    /* This is the aspect*/
+    height: 0;
+    overflow: hidden;
+}
+
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.bg-project-1 {
+    background-image: url("photos/1adi-goldstein-EUsVwEOsblE-unsplash\ \(1\).jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-2 {
+    background-image: url("photos/2mike-kenneally-tNALoIZhqVM-unsplash\ \(1\).jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-3 {
+    background-image: url("photos/3inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-4 {
+    background-image: url("photos/4jo-van-de-kerkhove-NVi1w27E85w-unsplash.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-5 {
+    background-image: url("photos/5thomas-jensen-ISG-rUel0Uw-unsplash\ \(1\).jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-6 {
+    background-image: url("photos/6diego-ph-fIq0tET6llw-unsplash.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-7 {
+    background-image: url("photos/7adam-miller-dBaz0xhCkPY-unsplash.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-8 {
+    background-image: url("photos/8nasa-CpHNKNRwXps-unsplash.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-project-9 {
+    background-image: url("photos/9matt-howard-G8hk3cl25ZA-unsplash.jpg");
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#more {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
+#more5 {display: none;}
+#more6 {display: none;}
+#more7 {display: none;}
+#more8 {display: none;}
+#more9 {display: none;}
+#more10 {display: none;}
+#more11 {display: none;}
+#more12 {display: none;}
+#more13 {display: none;}
+#more14 {display: none;}
+#more15 {display: none;}
+#more16 {display: none;}
